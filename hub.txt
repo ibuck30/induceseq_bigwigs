@@ -1,0 +1,5 @@
+hub InduceSeqHub
+shortLabel InduceSeq bigWigs (hg19)
+longLabel InduceSeq bigWig tracks for hg19 (25 samples)
+genomesFile genomes.txt
+email ibuck30@users.noreply.github.com
