@@ -225,3 +225,12 @@ type bigWig
 bigDataUrl https://github.com/ibuck30/induceseq_bigwigs/releases/download/v1.0/WT_Rep3a_S2.bw
 autoScale on
 visibility pack
+
+track AsiSI_plus2kb
+type bigBed 6
+shortLabel AsiSI ±2 kb
+longLabel AsiSI restriction enzyme sites ±2 kb (hg19)
+bigDataUrl AsiSI_hg19_plus2kb.bb
+visibility dense
+color 200,0,0
+priority 10
