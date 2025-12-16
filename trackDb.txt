@@ -234,3 +234,13 @@ bigDataUrl AsiSI_hg19_plus2kb.bb
 visibility dense
 color 200,0,0
 priority 10
+
+track AsiSI_exact
+type bigBed 6
+shortLabel AsiSI cut sites
+longLabel Exact AsiSI restriction enzyme cut sites (hg19)
+bigDataUrl AsiSI_hg19.bb
+visibility dense
+color 0,0,0
+priority 9
+
