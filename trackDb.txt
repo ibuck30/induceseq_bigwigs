@@ -244,3 +244,11 @@ visibility dense
 color 0,0,0
 priority 9
 
+track AsiSI_top80
+type bigBed 6
+shortLabel AsiSI Top 80
+longLabel Top 80 AsiSI cleavage hotspots (hg19)
+bigDataUrl AsiSI_top80_hotspots.bb
+visibility full
+color 0,120,200
+priority 8
