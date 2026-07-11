@@ -1,5 +1,5 @@
 hub InduceSeqHub
 shortLabel InduceSeq bigWigs (hg19)
-longLabel InduceSeq bigWig tracks for hg19 (25 samples) - release v1.0 (fixed)
+longLabel InduceSeq bigWig tracks for hg19 (25 samples) - release v3.0
 genomesFile genomes.txt
 email ibuck30@users.noreply.github.com
