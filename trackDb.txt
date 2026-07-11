@@ -2,7 +2,7 @@
 track InduceSeq
 compositeTrack on
 shortLabel InduceSeq
-longLabel InduceSeq bigWig collection (25 samples) - release v1.0 (fixed)
+longLabel InduceSeq bigWig collection (25 samples) - release v4.0
 type bigWig
 visibility full
 noInherit on
